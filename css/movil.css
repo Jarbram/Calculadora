@@ -1,0 +1,12 @@
+.calculadora{
+    
+    grid-template-columns: repeat(4,55px);
+    grid-template-rows: 120px repeat(5,55px);
+    background-color: #646e6c;
+    padding:15px;
+    border-radius:32px;
+    box-shadow: 15px 10px 0px 5px #00000033;
+}
+.container{
+    height: 550px;
+}
